@@ -9,7 +9,7 @@
         "16": "icons/icon19.png",
         "128": "icons/icon128.png"
     },
-    //"default_locale": "en",
+    "default_locale": "en",
     "background": {
         "scripts": [
             "js/lodash-4.17.5.min.js",
